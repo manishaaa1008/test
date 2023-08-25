@@ -1,6 +1,0 @@
-{{#user}}
-Name: Manisha Kumari
-Skills: HTML, CSS, JS, Next.js
-Email: manishaaa1008@gmail.com
-{{/user}}
-
